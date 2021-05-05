@@ -3,7 +3,17 @@ entries:
   anvil:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2021-05-05T14:36:02.716385+01:00"
+    created: "2021-05-05T14:49:54.698892+01:00"
+    description: Opsforge ANViL helm packaged
+    digest: 1d91d6462cdb6810c45a85565501557db17ac491d6cf10886779e61af5bcd000
+    name: anvil
+    type: application
+    urls:
+    - anvil-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 2.0.0
+    created: "2021-05-05T14:49:54.698372+01:00"
     description: Opsforge ANViL helm packaged
     digest: 9ce8fac955f7110e65f11a6be950ab0f896fec8fa993002a39185001562567cf
     name: anvil
@@ -11,4 +21,4 @@ entries:
     urls:
     - anvil-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-05T14:36:02.713932+01:00"
+generated: "2021-05-05T14:49:54.697653+01:00"
