@@ -103,7 +103,8 @@ spec:
             cpu: {{ .Values.cloud9.max_cpu }}
         ports:
         - containerPort: 8181
-        command: "-a : "
+        command:
+        - "-a : "
         volumeMounts:
         - name: anvilroot
           mountPath: /workspace
